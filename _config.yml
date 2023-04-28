@@ -13,16 +13,14 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Jekyll on Render
-email: support@render.com
+title: 蓝岸电气化图书馆
+email: xueshe85@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  如果你已经迫不及待地想分享你的藏书，或者希望为图书馆出一份力，那么欢迎加入我们，请电邮xueshe85@outlook.com!
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://jekyll.onrender.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: getrender
-github_username:  render
+url: "https://bclib.onrender.com" # the base hostname & protocol for your site, e.g. http://example.com
+bilibili_username: 海凝Solid_Sea
+github_username:  Solid-Sea
 permalink: /:categories/:year/:month/:day/:title
 
 # Build settings
