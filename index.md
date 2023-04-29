@@ -4,12 +4,3 @@
 
 layout: home
 ---
-
-  <ul class="posts">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
-        <a class="post-link" href="{{ post.url | prepend: [site.baseurl](https://bclib.onrender.com/) }}">{{ 蓝岸电气化图书与档案馆 }}</a>
-      </li>
-    {% endfor %}
-  </ul>
