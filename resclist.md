@@ -1,13 +1,13 @@
 ---
 layout: page
-title: ×ÊÔ´ÁÐ±í
+title: èµ„æºåˆ—è¡¨
 permalink: /resclist/
 ---
 
-±¾Ò³ÁÐ³öÁË±¾Õ¾ËùÓÐÊÕÂ¼¹ýµÄÄÚÈÝ£¬µ«¿ÉÄÜÓÐÒÅÂ©¡£Ê¹ÓÃÊ±ÇëÊ¹ÓÃÍøÒ³¡°²éÕÒ¡±¹¦ÄÜÒÔ½øÐÐ°´Ãû³Æ¼ìË÷¡£
-×îºó¸üÐÂÈÕÆÚ£º2023-04-29£¨CST£©
+æœ¬é¡µåˆ—å‡ºäº†æœ¬ç«™æ‰€æœ‰æ”¶å½•è¿‡çš„å†…å®¹ï¼Œä½†å¯èƒ½æœ‰é—æ¼ã€‚ä½¿ç”¨æ—¶è¯·ä½¿ç”¨ç½‘é¡µâ€œæŸ¥æ‰¾â€åŠŸèƒ½ä»¥è¿›è¡ŒæŒ‰åç§°æ£€ç´¢ã€‚
+æœ€åŽæ›´æ–°æ—¥æœŸï¼š2023-04-29ï¼ˆCSTï¼‰
 
-°ËÄê¼¶Ó¢Óï×÷ÎÄ±Ê¼Ç£¨ÖÁ8ÏÂM5£©£º[ÏÂÔØ][https://bclib.onrender.com/elescan-books/0°ËÄê¼¶Ó¢Óï×÷ÎÄ±Ê¼Ç(ÖÁ8BM5).pdf]
-°ËÄê¼¶ÎïÀí±Ê¼Ç£¨ÖÁ10.3°¢»ùÃ×µÂÔ­Àí£©£º[ÏÂÔØ][https://bclib.onrender.com/elescan-books/0°ËÄê¼¶Ó¢Óï×÷ÎÄ±Ê¼Ç(ÖÁ8BM5).pdf]
+å…«å¹´çº§è‹±è¯­ä½œæ–‡ç¬”è®°ï¼ˆè‡³8ä¸‹M5ï¼‰ï¼š[ä¸‹è½½][https://bclib.onrender.com/elescan-books/0å…«å¹´çº§è‹±è¯­ä½œæ–‡ç¬”è®°(è‡³8BM5).pdf]
+å…«å¹´çº§ç‰©ç†ç¬”è®°ï¼ˆè‡³10.3é˜¿åŸºç±³å¾·åŽŸç†ï¼‰ï¼š[ä¸‹è½½][https://bclib.onrender.com/elescan-books/0å…«å¹´çº§è‹±è¯­ä½œæ–‡ç¬”è®°(è‡³8BM5).pdf]
 
 [jekyll-organization]: https://github.com/jekyll
