@@ -24,6 +24,7 @@ github_username:  Solid-Sea
 permalink: /:categories/:year/:month/:day/:title
 
 # Build settings
+timezone: Asia/Shanghai
 markdown: kramdown
 theme: minima
 plugins:
