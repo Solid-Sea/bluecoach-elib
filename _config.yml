@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: 蓝岸电气化图书馆
+title: 蓝岸电气化图书与档案馆
 email: xueshe85@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
   如果你已经迫不及待地想分享你的藏书，或者希望为图书馆出一份力，那么欢迎加入我们，请电邮xueshe85@outlook.com!
@@ -24,7 +24,6 @@ github_username:  Solid-Sea
 permalink: /:categories/:year/:month/:day/:title
 
 # Build settings
-timezone: Asia/Shanghai
 markdown: kramdown
 theme: minima
 plugins:
