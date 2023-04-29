@@ -1,9 +1,5 @@
-# Jekyll on Render
+#蓝岸电气化图书与档案馆
+##我们珍藏每一片字纸，追寻知识之光。
 
-This is a minimal [Jekyll](https://jekyllrb.com/) site bootstrapped with the `jekyll new` command.
-
-The sample app is deployed on Render at https://jekyll.onrender.com.
-
-## Deployment
-
-Follow the guide at https://render.com/docs/deploy-jekyll.
+#网站维护：海凝
+资源贡献：见站内“关于本站”页面。
