@@ -4,13 +4,15 @@
 
 layout: home
 ---
-<ul>
+<html>
+ <body>
+   <ul>
   {% for post in site.posts %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
     </li>
   {% endfor %}
-</ul>
-</div>
-
+   </ul>
+ </body>
+</html>
 <script src="https://fastly.jsdelivr.net/gh/stevenjoezhang/live2d-widget@latest/autoload.js"></script>
