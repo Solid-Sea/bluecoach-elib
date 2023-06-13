@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 资源列表
-permalink: /resclist/
+permalink: /reclist/
 ---
 
 本页列出了本站所有收录过的内容，但可能有遗漏。使用时请使用网页“查找”功能以进行按名称检索。
