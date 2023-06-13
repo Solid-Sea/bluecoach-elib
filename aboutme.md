@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 关于本站
-permalink: /关于本站/
+permalink: /aboutme/
 ---
 
 蓝岸电气化图书档案馆是以Jekyll Blog框架为基础的，致力于为所有人提供知识的网站。
